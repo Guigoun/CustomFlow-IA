@@ -6,12 +6,12 @@ Agente de IA especializado em auxiliar entusiastas em projetos de modificação 
 ## 📂 Documentação do Desafio
 Estes são os ficheiros obrigatórios para a entrega do projeto. Clique nos links abaixo para visualizar ou descarregar:
 
-* **[📄 Documento do Produto (PDF)](https://github.com/user-attachments/files/26758579/Doc_CustomFlow_IA.pdf)**
+* **[📄 Documento do Produto (PDF)](./Doc_CustomFlowIA.pdf)**
   * *Contém a base de dados de compatibilidade, anos, modelos e peças suportadas.*
 
 ---
 
-* **[📄 Prompt do Assistente (PDF)](https://github.com/user-attachments/files/26758585/Prompt_CustomFlowIA.pdf)**
+* **[📄 Prompt do Assistente (PDF)](./Prompt_CustomFlowIA.pdf)**
   * *Contém as instruções de comportamento, persona e técnicas de Prompt Engineering (Few-Shot e Chain of Thought).*
 
 ---
